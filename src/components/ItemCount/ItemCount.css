@@ -1,0 +1,28 @@
+.Counter {
+    background-color: #0073ff;
+    border-radius: 10px;
+    width: 15rem;
+    padding: 1rem;
+    margin: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.Controls {
+    display: flex;
+    justify-content: center;
+    gap: 15px;}
+
+.Button {
+    border-radius: 20px;
+    width: 3rem;
+    margin: 2rem 
+
+}
+
+.Buttom {
+    border-radius: 10px;
+    padding: .5rem;
+}

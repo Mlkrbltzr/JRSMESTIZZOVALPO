@@ -1,0 +1,14 @@
+.CardItem {
+        text-align: center;
+        border: 1px solid #e1e2e3;
+        margin: 3rem;
+}
+
+.Header {
+    display: flex;
+    margin: 1rem;
+}
+
+.ItemFooter {
+    margin: 1rem;
+}
